@@ -8,6 +8,13 @@ in hearing more, please [sign up](https://jumpingrivers.typeform.com/to/RCUweI) 
 get information about our beta version.
 
 
+--
+
+## What can this package do? 
+
+This __AMAZING__ package inclulde functions for adding and subtracting numbers!
+
+
 
 ---
 
