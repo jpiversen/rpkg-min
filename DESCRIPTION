@@ -2,8 +2,8 @@ Package: rpkgMin
 Type: Package
 Title: What the Package Does (Title Case)
 Version: 0.1.0
-Author: Jan Petter Iversen & Jumping Rivers
-Maintainer: jan.p.iversen@gmail.com
+Author: Jan Petter Iversen and Jumping Rivers
+Maintainer: Jan Petter Iversen <jan.p.iversen@gmail.com>
 Description: This package is amazing at adding and subtracting numbers.
 License: GPL-2
 Suggests: 
