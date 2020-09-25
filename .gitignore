@@ -270,3 +270,5 @@ TSWLatexianTemp*
 *.sta
 .Rproj.user
 docs
+inst/doc
+docs/

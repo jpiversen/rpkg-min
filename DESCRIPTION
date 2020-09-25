@@ -6,7 +6,11 @@ Author: Jan Petter Iversen & Jumping Rivers
 Maintainer: jan.p.iversen@gmail.com
 Description: This package is amazing at adding and subtracting numbers.
 License: GPL-2
-Suggests: testthat
+Suggests: 
+    testthat,
+    knitr,
+    rmarkdown
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 7.1.1
+VignetteBuilder: knitr
