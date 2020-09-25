@@ -1,2 +1,7 @@
 language: r
-cache: packages
+cache: packagesx
+
+r:
+  - oldrel
+  - release
+  - devel
